@@ -7,10 +7,6 @@ metadata:
     app: {{ .Chart.Name }}
     chart: {{ .Chart.Name }}-{{ .Chart.Version }}
 spec:
-  type: LoadBalancer
-  ports:
-    - port: 80
-      targetPort: 80
   replicas: {{ .Values.replicaCount }}
   selector:
     matchLabels:

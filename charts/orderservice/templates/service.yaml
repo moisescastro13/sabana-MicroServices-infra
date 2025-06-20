@@ -7,6 +7,6 @@ spec:
   type: LoadBalancer
   ports:
     - port: 80
-      targetPort: 5001
+      targetPort: 8080
   selector:
     app: orderservice
