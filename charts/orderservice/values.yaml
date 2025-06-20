@@ -1,6 +1,6 @@
 image:
   repository: moyg12/orderservice
-  tag: '283b80d5960aff19f2f83d2dcfc2b03d8fad86a9'
+  tag: 'latest'
   pullPolicy: IfNotPresent
 
 service:
