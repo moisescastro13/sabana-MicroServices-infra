@@ -1,6 +1,6 @@
 image:
   repository: moyg12/productservice
-  tag: 'f68fde30bfcb7ca9dbec5a52c04a40db05e27afd'
+  tag: 'b0611a4e16ada28f5d3de6200679a4eae9cdaf95'
   pullPolicy: IfNotPresent
 
 service:
