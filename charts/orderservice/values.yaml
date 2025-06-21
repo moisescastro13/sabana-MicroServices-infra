@@ -1,6 +1,6 @@
 image:
   repository: moyg12/orderservice
-  tag: '581eba9d852bdad27137302b3a0af217a725867d'
+  tag: 'b0611a4e16ada28f5d3de6200679a4eae9cdaf95'
   pullPolicy: IfNotPresent
 
 service:
